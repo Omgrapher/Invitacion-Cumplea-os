@@ -20,13 +20,13 @@ Este proyecto consiste en una invitación de cumpleaños digital con una interfa
 - **JavaScript**: Interactividad y eventos.
 
 ---
-🚧 Futuro desarrollo
+## 🚧 Futuro desarrollo
 Este proyecto está pensado para ser un prototipo de invitaciones digitales interactivas. Puede ser adaptado para crear invitaciones para otros tipos de eventos, incluyendo bodas, aniversarios o eventos empresariales.
 
-📢 Contribuir
+## 📢 Contribuir
 Si tienes alguna sugerencia o deseas contribuir a este proyecto, ¡no dudes en hacer un pull request o abrir un issue!
 
-👥 Contacto
+## 👥 Contacto
 Creador del proyecto: Marlon Ovalle (Omgrapher)
 Correo: ovallemarlonf@gmail.com
 
